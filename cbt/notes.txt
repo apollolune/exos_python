@@ -1,0 +1,9 @@
+Python : shell script on steroids !
+Guido van Rossum
+multi-paradigm : procedural/imperatif functionnal oo
+License : certified open-source langage
+---
+Py usually interpreted from bytecode
+Multiple files
+Can be embedded in the apps they control (civilization 4)
+---
